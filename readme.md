@@ -1,4 +1,4 @@
-
+a multi cluster k8s management tool base on official k8s client-go & kubectl proxy
 
 details
 1.apply请求会先get一遍，客户端根据结果来决定是patch还是post
