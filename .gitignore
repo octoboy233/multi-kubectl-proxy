@@ -1,2 +1,3 @@
 ./resources/kubeconfig/config
 ./certs
+.idea
